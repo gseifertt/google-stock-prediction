@@ -1,0 +1,19 @@
+.red{
+    background-color: rgb(255, 167, 167);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#two{
+    color: #0000ff;;
+    font-size: 26px;
+}
+
+#four{
+    background-color: #ADFF2F;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.unc{
+    font-size: 24px;
+}
