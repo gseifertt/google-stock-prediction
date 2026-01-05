@@ -1,4 +1,3 @@
-# google-stock-prediction
 # Google Stock Prediction (GOOG)
 
 Predicts **next-day Google (GOOG) adjusted close price** (regression) and **next-day direction (up/down)** (classification) using historical market data + technical indicators.
