@@ -4,7 +4,7 @@ Predicts **next-day Google (GOOG) adjusted close price** (regression) and **next
 
 > Note: The project objective statement in the notebook mentions “predict the next 30 days of open and close.”
 > The current implementation predicts **next-day adjusted close** and **next-day direction**.
-> See **Roadmap** for how to extend to 30-day forecasts and open/close targets.
+
 
 ---
 
